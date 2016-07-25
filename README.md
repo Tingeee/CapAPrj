@@ -10,3 +10,11 @@ Ting Wu, Ling Lin, Yiming Feng
 Ting Wu
 
 ## Project Documents
++ Demo.md - demo show description	
++ README.md	- general introduction
++ checkList.md - check list
++ index.html - web interface
++ json2.py - for parsing Jason (I guess. I am ling.)
++ menu_catalog.xml - what is this? @Ting
++ rawdataprocess.py - for processing log files
++ requirements for API - things to do for ling, :(
