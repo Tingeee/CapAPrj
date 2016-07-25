@@ -17,13 +17,13 @@ __tool: data fetch from back-end; data show on an app__
 __python, json, ios(function), apache;__
 
 ## demo:
-+ input:
-
-__time, vin, app, reponding__
-
-+ output:
-
-__app flow: login pic -> one button (fetch data) -> progress bar -> raw data view -> time, vin, responding -> master-detail view__
+app flow:
+	+ login pic
+	+ one button (fetch data)
+	+ progress bar
+	+ raw data view
+	+ time, vin, responding
+	+ master-detail view
 	
 ## raw data:
 raw data, python script, "showJson", "input", inputData
