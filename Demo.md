@@ -4,11 +4,9 @@
 + car <---> cloud
 + in-car app
 + operation check
-	
-
 + Front
 + back-end
-	
+
 __tool: data fetch from back-end; data show on an app__
 
 ## solution arc:
