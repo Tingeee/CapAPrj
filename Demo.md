@@ -18,8 +18,11 @@ __python, json, ios(function), apache;__
 
 ## demo:
 + input:
+
 __time, vin, app, reponding__
+
 + output:
+
 __app flow: login pic -> one button (fetch data) -> progress bar -> raw data view -> time, vin, responding -> master-detail view__
 	
 ## raw data:
