@@ -14,7 +14,7 @@ Ting Wu
 + README.md	- general introduction
 + checkList.md - check list
 + index.html - web interface
-+ json2.py - for parsing Jason (I guess. I am ling.)
-+ menu_catalog.xml - what is this? @Ting
++ json2.py - creat json for raw data
++ menu_catalog.xml - what is this? @Ting - It's a part file of xml parsing demo, work with index.html @Ling :):::.
 + rawdataprocess.py - for processing log files
 + requirements for API - things to do for ling, :(
