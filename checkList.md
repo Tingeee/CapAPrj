@@ -23,5 +23,5 @@
 ### demo show
 - [ ] docker
 - [ ] python script
-- [ ] jason interface
+- [ ] json interface
 - [ ] ios demo app
