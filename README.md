@@ -15,6 +15,8 @@ Ting Wu
 + checkList.md - check list
 + index.html - web interface
 + json2.py - creat json for raw data
-+ menu_catalog.xml - what is this? @Ting - It's a part file of xml parsing demo, work together with index.html @Ling :):::.
++ menu_catalog.xml - what is this? @Ting - It's a part file of xml parsing demo, work together with index.html @Ling :)::.
 + rawdataprocess.py - for processing log files
 + requirements for API - things to do for ling, :(
++ CapAPrj - ISO demo for json parsing and result showing
++ json3.2 - creat json files based deffierent items
