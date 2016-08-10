@@ -7,8 +7,8 @@
 - [x] write a script for CVC log
 - [x] some searching function
 
-### jason demo
-- [x] jason interface for http call
+### json demo
+- [x] json interface for http call
 - [ ] restful api
 
 ### xml script
@@ -22,6 +22,6 @@
 
 ### demo show
 - [ ] docker
-- [ ] python script
+- [x] python script
 - [ ] json interface
-- [ ] ios demo app
+- [x] ios demo app
