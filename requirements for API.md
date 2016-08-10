@@ -1,10 +1,10 @@
 # API 
 ### get
 *four kind json files and one raw data file (all updated in time )*
- 1.time2016-mm-dd
- 2.vin2016-mm-dd
- 3.responsecode2016-mm-dd
- 4.cep_access_log
+ * time2016-mm-dd
+ * vin2016-mm-dd
+ * responsecode2016-mm-dd
+ * cep_access_log
 
 ### input
 *accept input containing time,vin,url,response code*
