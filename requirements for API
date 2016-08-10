@@ -1,18 +1,18 @@
 ## API 
-  ### 1.get
-    **four kind json files and one raw data file (all updated in time ) ** 
+  ### get
+    **four kind json files and one raw data file (all updated in time )** 
       --time2016-mm-dd
       --vin2016-mm-dd
       --responsecode2016-mm-dd
       --cep_access_log
     
   
-  ### 2.input
+  ### input
     **accept input containing time,vin,url,response code** 
    
-  ### 3.vin2016-07-15    
+  ### vin2016-07-15    
     **JSON demo** 
-    ```json
+    ```javascript
     {
     "results": {
         "date": "2016-07-15", 
