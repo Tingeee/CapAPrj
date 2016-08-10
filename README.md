@@ -19,3 +19,4 @@ Ting Wu
 + rawdataprocess.py - for processing log files
 + requirements for API - things to do for ling, :(
 + CapAPrj - ISO demo for json parsing and result showing
++ json3.2 - creat json files based deffierent items
