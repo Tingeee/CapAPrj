@@ -4,7 +4,7 @@ from datetime import datetime, date
 import sys
 import json
 
-#find unique value of vin and counting
+#find unique value of vin and counting frequency
 #author: Ting
 #2016.09.18
 
